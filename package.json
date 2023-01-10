@@ -1,0 +1,20 @@
+{
+  "name": "arquitetura-de-software-msc",
+  "version": "1.0.0",
+  "description": "CRUD com arquitetura MSC usando Node JS, MongoDB e Express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HenrikSantos/Arquitetura-de-software-MSC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HenrikSantos/Arquitetura-de-software-MSC/issues"
+  },
+  "homepage": "https://github.com/HenrikSantos/Arquitetura-de-software-MSC#readme"
+}
