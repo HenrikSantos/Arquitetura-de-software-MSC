@@ -2,8 +2,9 @@
   "name": "arquitetura-de-software-msc",
   "version": "1.0.0",
   "description": "CRUD com arquitetura MSC usando Node JS, MongoDB e Express.",
-  "main": "index.js",
+  "main": "src/server.js",
   "scripts": {
+    "start": "nodemo scr/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,5 +17,12 @@
   "bugs": {
     "url": "https://github.com/HenrikSantos/Arquitetura-de-software-MSC/issues"
   },
-  "homepage": "https://github.com/HenrikSantos/Arquitetura-de-software-MSC#readme"
+  "homepage": "https://github.com/HenrikSantos/Arquitetura-de-software-MSC#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "sucrase": "^3.29.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
